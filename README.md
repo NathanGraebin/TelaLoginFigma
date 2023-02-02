@@ -17,6 +17,7 @@ https://user-images.githubusercontent.com/119326011/216324153-58d8d2f1-dc99-4e1f
 ---
 
 # #2 
+
 Toda vez que fomos prototipar um aplicativo ou um site responsivos usamos 4 COLUNAS. alterando o Layout Grid para Colunas e posteriormente 4, tambem alteramos a margem para 15. 
 
 https://user-images.githubusercontent.com/119326011/216327846-b721a2dc-2720-46b6-8f36-a7bee4ad447d.mp4
@@ -24,6 +25,7 @@ https://user-images.githubusercontent.com/119326011/216327846-b721a2dc-2720-46b6
 ---
 
 # #3 
+
 Adicionares um icone do Pacote e posteriormente devemos configurar sua Constraints de modo que ela fique ficsa no loca, indiferente de mexermos no frame, mantera a proporção.
 Nessa etapa tambem adicionaremos dois texto, faremos a mudança de tamanho, tipo de fonte e cor.
 
@@ -32,6 +34,7 @@ https://user-images.githubusercontent.com/119326011/216335995-ceb51564-59fa-4a08
 ---
 
 # #4
+
 Primeiro AUTO LAYOUT > Simplesmente serve agrupar elementos de maneira inteligente, parametrizar diversos comportamentos diferentes, para quando duplicar você consiga manter a proporção e organização
 
 " Acesse "
@@ -53,7 +56,7 @@ Já a letra maior, vamos selecionar e a transformar em um AUTOLAYOUT ( SHIFT + A
 
 Na Opção Fill, trocaremos a cor do fundo, e posteriormente a cor da letra, para algo como marca d'agua, já que ali sera inserido a informação pelo usuario.
 
-Tambem vamos arrendondar as bordar e aumentar o campo de escrita.
+Tambem vamos arrendondar as bordar,aumentar o campo de escrita e fazer dos 2 objetos manipulados um AUTO LAYOUT.
 
-
+N
 
