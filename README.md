@@ -30,4 +30,11 @@ https://user-images.githubusercontent.com/119326011/216335995-ceb51564-59fa-4a08
 ---
 
 # #4
+Primeiro AUTO LAYOUT > Simplesmente serve agrupar elementosde maneira inteligente, parametrizar diversos comportamentos diferentes, para quando duplicar você consiga manter a proporção e organização
+
+Selecione os 2 textos e aperte > SHIFT + A 
+
+https://user-images.githubusercontent.com/119326011/216337704-10f155bd-c5b0-4881-b67b-867587b9da1b.mp4
+
+---
 
