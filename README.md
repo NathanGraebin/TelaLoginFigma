@@ -24,15 +24,18 @@ https://user-images.githubusercontent.com/119326011/216327846-b721a2dc-2720-46b6
 ---
 
 # #3 
-Adicionares um icone do Pacote e posteriormente devemos configurar sua Constraints de modo que ela fique ficsa no loca, indiferente de mexermos no frame
-nessa etapa tambem adicionaremos dois texto, faremos a mudança de tamanho, tipo de fonte e cor.
+Adicionares um icone do Pacote e posteriormente devemos configurar sua Constraints de modo que ela fique ficsa no loca, indiferente de mexermos no frame, mantera a proporção.
+Nessa etapa tambem adicionaremos dois texto, faremos a mudança de tamanho, tipo de fonte e cor.
 
 https://user-images.githubusercontent.com/119326011/216335995-ceb51564-59fa-4a08-9310-474aff39c998.mp4
 
 ---
 
 # #4
-Primeiro AUTO LAYOUT > Simplesmente serve agrupar elementosde maneira inteligente, parametrizar diversos comportamentos diferentes, para quando duplicar você consiga manter a proporção e organização
+Primeiro AUTO LAYOUT > Simplesmente serve agrupar elementos de maneira inteligente, parametrizar diversos comportamentos diferentes, para quando duplicar você consiga manter a proporção e organização
+
+" Acesse "
+" Com o e-mail e senha para entrar "
 
 Selecione os 2 textos e aperte > SHIFT + A 
 
