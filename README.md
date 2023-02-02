@@ -43,3 +43,14 @@ https://user-images.githubusercontent.com/119326011/216337704-10f155bd-c5b0-4881
 
 ---
 
+# #5
+
+Faça uma copia do autolayout feito no #4 e a desagrupe mantendo o CTRL e clicando na escrita a arastando para " longe ".
+
+A letra pequena agora ficara na parte superior e sera escrito " Digite seu e-mail "
+Já a letra maior, vamos selecionar e a transformar em um AUTOLAYOUT ( SHIFT + A ), passando a usar ela para a escrita do usuario.
+na Opção Fill, trocaremos a cor do fundo, e posteriormente a cor da letra, para algo como marca d'agua, já que ali sera inserido a informação pelo usuario.
+Tambem vamos arrendondar as bordar e aumentar o campo de escrita.
+
+
+
