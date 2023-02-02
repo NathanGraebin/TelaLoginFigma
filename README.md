@@ -63,9 +63,22 @@ https://user-images.githubusercontent.com/119326011/216395713-4427aaf9-0294-42c9
 
 ---
 
-#6 CAMPO DIGITE SUA SENHA
+# #6 CAMPO DIGITE SUA SENHA + ICONE 
 
 Faça uma copia do AUTOLAYOUT do passo #5 logo abaixo do mesmo
-Mudaremos a letra pequena para " Digite sua senha "
-e o campo de digitar, trocaremos para Senha
+Mudaremos a letra pequena para " Digite sua senha " e o campo de digitar, trocaremos para Senha.
+
+Usaremo um ICONE DO OLHO, para mostrar e não mostrar a senha digitada.
+Primeiros devemos copiar ele do pacote, e colando ele na nossa aba atual.
+
+Arrastaremos o icone para o campo da senha, assim incluindo ele dentro do AUTOLAYOUT. Com o CTRL apertado, clicaremos encima do campo Senha, selecionando ele,no canto direito da nossa tela é apresetado a Aba do AUTOLAYOUT e junto a ela temos os 3 pontinhos ... no qual clicaremos.
+Na opção Spacing Mode mudaremos para Packed, fazendo com que separe de forma linear o que ali dentro tem.
+
+Selecionaremos os 2 AUTOLAYOUT de preenchimento e faremos o AUTOLAYOUT dos 2. E posteriormente incluir o Acesse a esse AUTOLAYOUT.
+
+https://user-images.githubusercontent.com/119326011/216400013-66972599-c1e3-4dd0-86a1-ed054061a176.mp4
+
+---
+
+# #7
 
