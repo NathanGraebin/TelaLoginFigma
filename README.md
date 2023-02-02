@@ -5,6 +5,9 @@
 
 Esse é um estudo de FIGMA afim de realizar uma tela de login e aprender mais sobre essa ferramenta
 
+Resultado Final:
+![img](https://user-images.githubusercontent.com/119326011/216449418-d76eea5c-1c86-46a6-bdcf-3060aaaa4421.PNG)
+
 Pacote Icones : https://www.figma.com/community/file/1167095206287823963
 ---
 
