@@ -9,14 +9,14 @@ Pacote Icones : https://www.figma.com/community/file/1167095206287823963
 ---
 
 
-# #1 
+# #1 CRIAÇÃO DO FRAME E BORDA
 Primeiro passo é você criar um FRAME e afim de deixar mais bonito, podemos adicionar uma borda ao mesmo
 
 https://user-images.githubusercontent.com/119326011/216324153-58d8d2f1-dc99-4e1f-a850-a4223b7b41e7.mp4
 
 ---
 
-# #2 
+# #2 GRID E MARGEM
 
 Toda vez que fomos prototipar um aplicativo ou um site responsivos usamos 4 COLUNAS. alterando o Layout Grid para Colunas e posteriormente 4, tambem alteramos a margem para 15. 
 
@@ -24,7 +24,7 @@ https://user-images.githubusercontent.com/119326011/216327846-b721a2dc-2720-46b6
 
 ---
 
-# #3 
+# #3 ADICIONANDO ICONE E PRIMEIROS TEXTOS
 
 Adicionares um icone do Pacote e posteriormente devemos configurar sua Constraints de modo que ela fique ficsa no loca, indiferente de mexermos no frame, mantera a proporção.
 Nessa etapa tambem adicionaremos dois texto, faremos a mudança de tamanho, tipo de fonte e cor.
@@ -33,7 +33,7 @@ https://user-images.githubusercontent.com/119326011/216335995-ceb51564-59fa-4a08
 
 ---
 
-# #4
+# #4 - CRIANDO O PRIMEIRO AUTO LAYOUT
 
 Primeiro AUTO LAYOUT > Simplesmente serve agrupar elementos de maneira inteligente, parametrizar diversos comportamentos diferentes, para quando duplicar você consiga manter a proporção e organização
 
@@ -46,7 +46,7 @@ https://user-images.githubusercontent.com/119326011/216337704-10f155bd-c5b0-4881
 
 ---
 
-# #5
+# #5 CAMPO DIGITE SEU E-MAIL
 
 Faça uma copia do autolayout feito no #4 e a desagrupe mantendo o CTRL e clicando na escrita a arastando para " longe ".
 
@@ -58,5 +58,14 @@ Na Opção Fill, trocaremos a cor do fundo, e posteriormente a cor da letra, par
 
 Tambem vamos arrendondar as bordar,aumentar o campo de escrita e fazer dos 2 objetos manipulados um AUTO LAYOUT.
 
-N
+
+https://user-images.githubusercontent.com/119326011/216395713-4427aaf9-0294-42c9-9b66-8a4c8d62ffee.mp4
+
+---
+
+#6 CAMPO DIGITE SUA SENHA
+
+Faça uma copia do AUTOLAYOUT do passo #5 logo abaixo do mesmo
+Mudaremos a letra pequena para " Digite sua senha "
+e o campo de digitar, trocaremos para Senha
 
